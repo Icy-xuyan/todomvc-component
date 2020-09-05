@@ -1,5 +1,6 @@
 //头部组件
 Vue.component('todo-header', {
+	// bb修改herder
 	template: `
 		<header class="header">
 			<h1>todos</h1>
