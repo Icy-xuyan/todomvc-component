@@ -1,4 +1,4 @@
-	'use strict';
+	'use strict'; // --- b1
 	const router = new VueRouter({
 		linkActiveClass: 'selected',
 		linkExactActiveClass: 'selected'
