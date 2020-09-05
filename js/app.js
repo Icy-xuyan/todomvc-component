@@ -1,5 +1,5 @@
 (function (window) {
-	// index分支第一次修改
+	// bb分支在修改
 	'use strict';
 	const router = new VueRouter({
 		linkActiveClass: 'selected',
