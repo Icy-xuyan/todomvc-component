@@ -1,5 +1,4 @@
 Vue.component('todo-footer', {
-	// aa修改footer
 	template: `
 	<footer class="footer" v-show="isShowFooter">
 	<span class="todo-count"><strong>{{leftCount}}</strong> item left</span>
