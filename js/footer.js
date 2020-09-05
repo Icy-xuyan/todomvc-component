@@ -1,4 +1,4 @@
-Vue.component('todo-footer', {
+Vue.component('todo-footer', { //a1
 	// aa修改footer
 	template: `
 	<footer class="footer" v-show="isShowFooter">
