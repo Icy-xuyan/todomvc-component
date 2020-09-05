@@ -1,5 +1,5 @@
 //内容组件
-Vue.component('todo-main', { // 99999
+Vue.component('todo-main', {
 	template: `
 		<section class="main">
 			<input id="toggle-all" class="toggle-all" type="checkbox" v-model="isCheckAll">

@@ -1,4 +1,3 @@
-(function (window) { // a2
 	'use strict';
 	const router = new VueRouter({
 		linkActiveClass: 'selected',
