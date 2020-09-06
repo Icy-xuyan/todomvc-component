@@ -1,4 +1,4 @@
-	'use strict'; // --- b1  daqingzaode1
+	'use strict'; // --- b1  daqingzaode1  ceshi1222
 	const router = new VueRouter({
 		linkActiveClass: 'selected',
 		linkExactActiveClass: 'selected'
